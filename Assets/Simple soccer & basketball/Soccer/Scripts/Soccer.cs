@@ -130,8 +130,8 @@ public class Soccer : MonoBehaviour {
 		if (Soccer.count <= 0) 
 		{
 			WinText.text = "Ganaste";
-			//gameOver = true;
-			//GameOverMenu.SetActive(true);
+			gameOver = true;
+			GameOverMenu.SetActive(true);
 		}
 		else
 		{
