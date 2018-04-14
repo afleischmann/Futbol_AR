@@ -32,3 +32,24 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Omit all for GitHub
+*.meta
+*.png
+*.sh
+*.jpg
+*.jpeg
+*.mp3
+*.pdf
+*.txt
+*.psd
+*manifest.json 
+QCAR/*
+ProjectSettings/*
+Futbol_AR/Unity-iPhone*
+Futbol_AR/Libraries/*
+Futbol_AR/Data/*
+Futbol_AR/Classes/*
+*/Vuforia/
+
+
