@@ -39,8 +39,6 @@ sysinfo.txt
 *.jpg
 *.jpeg
 *.mp3
-*.pdf
-*.psd
 QCAR/*
 Futbol_AR/Unity-iPhone*
 Futbol_AR/Libraries/*
