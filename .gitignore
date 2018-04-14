@@ -35,7 +35,6 @@ sysinfo.txt
 
 # Omit all for GitHub
 *.meta
-*.jpg
 Futbol_AR/Unity-iPhone*
 Futbol_AR/Libraries/*
 Futbol_AR/Data/*
